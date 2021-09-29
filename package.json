@@ -1,10 +1,10 @@
 {
-  "name": "@modularcoder/learnstorybook-design-system-template",
+  "name": "@modularcoder/test-design-system",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "hhttps://github.com/modularcoder/test-design-system.git",
+  "repository": "git://github.com/modularcoder/test-design-system.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -24,7 +24,8 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "build-storybook-docs": "build-storybook -s public --docs"
+    "build-storybook-docs": "build-storybook -s public --docs",
+    "release": "auto shipit --base-branch=main"
   },
   "eslintConfig": {
     "extends": [
