@@ -2,6 +2,20 @@
 
 #### ⚠️ Pushed to `main`
 
+- something (gevharut@gmail.com)
+- Configs (gevharut@gmail.com)
+- first commit (gevharut@gmail.com)
+
+#### Authors: 1
+
+- Gevorg Harutyunyan ([@modularcoder](https://github.com/modularcoder))
+
+---
+
+# v0.1.1 (Thu Sep 30 2021)
+
+#### ⚠️ Pushed to `main`
+
 - Configs ([@modularcoder](https://github.com/modularcoder))
 - first commit ([@modularcoder](https://github.com/modularcoder))
 
