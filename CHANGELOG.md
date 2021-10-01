@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # v1.0.4 (Fri Oct 01 2021)
 
 #### ⚠️ Pushed to `main`
@@ -21,6 +22,64 @@
 #### Authors: 1
 
 - Gevorg Harutyunyan (gevharut@gmail.com)
+=======
+# v1.0.3 (Fri Oct 01 2021)
+
+
+
+---
+
+# v1.0.2 (Fri Oct 01 2021)
+
+
+
+---
+
+# v1.0.1 (Fri Oct 01 2021)
+
+
+
+---
+
+# v1.0.0 (Fri Oct 01 2021)
+
+#### 💥 Breaking Change
+
+- Update component [#1](https://github.com/modularcoder/test-design-system/pull/1) ([@modularcoder](https://github.com/modularcoder))
+
+#### ⚠️ Pushed to `main`
+
+- gitignore ([@modularcoder](https://github.com/modularcoder))
+- update package ([@modularcoder](https://github.com/modularcoder))
+- something ([@modularcoder](https://github.com/modularcoder))
+- Configs ([@modularcoder](https://github.com/modularcoder))
+- first commit ([@modularcoder](https://github.com/modularcoder))
+
+#### Authors: 1
+
+- Gevorg Harutyunyan ([@modularcoder](https://github.com/modularcoder))
+
+---
+
+# v1.0.0 (Fri Oct 01 2021)
+
+#### 💥 Breaking Change
+
+- Introduce breaking change [#1](https://github.com/modularcoder/test-design-system/pull/1) ([@modularcoder](https://github.com/modularcoder))
+- added author [#1](https://github.com/modularcoder/test-design-system/pull/1) ([@modularcoder](https://github.com/modularcoder))
+
+#### ⚠️ Pushed to `main`
+
+- gitignore ([@modularcoder](https://github.com/modularcoder))
+- update package ([@modularcoder](https://github.com/modularcoder))
+- something ([@modularcoder](https://github.com/modularcoder))
+- Configs ([@modularcoder](https://github.com/modularcoder))
+- first commit ([@modularcoder](https://github.com/modularcoder))
+
+#### Authors: 1
+
+- Gevorg Harutyunyan ([@modularcoder](https://github.com/modularcoder))
+>>>>>>> de91aacaf1b759092aa58927a4752c060ea92682
 
 ---
 
