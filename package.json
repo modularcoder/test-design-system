@@ -1,5 +1,6 @@
 {
   "name": "@modularcoder/test-design-system",
+  "author": "Gevorg Harutyunyan <gevharut@gmail.com>",
   "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
