@@ -15,6 +15,11 @@
 
 #### ⚠️ Pushed to `main`
 
+
+# v1.0.4 (Fri Oct 01 2021)
+
+#### ⚠️ Pushed to `main`
+
 - Readme update (gevharut@gmail.com)
 - readme update (gevharut@gmail.com)
 
