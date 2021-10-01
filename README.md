@@ -13,6 +13,7 @@
 
 
 
+
 This template ships with the main React configuration files you'll need to get up and running fast.
 
 ## 🚅  Quick start
