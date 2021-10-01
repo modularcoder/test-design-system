@@ -11,6 +11,19 @@
 
 ---
 
+# v1.0.4 (Fri Oct 01 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Readme update (gevharut@gmail.com)
+- readme update (gevharut@gmail.com)
+
+#### Authors: 1
+
+- Gevorg Harutyunyan (gevharut@gmail.com)
+
+---
+
 # v0.1.2 (Thu Sep 30 2021)
 
 #### ⚠️ Pushed to `main`
