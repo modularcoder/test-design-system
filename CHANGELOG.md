@@ -1,3 +1,9 @@
+# v1.0.1 (Fri Oct 01 2021)
+
+
+
+---
+
 # v1.0.0 (Fri Oct 01 2021)
 
 #### 💥 Breaking Change
